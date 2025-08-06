@@ -6,16 +6,6 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 
-Graphical view of the Drone on MATLAB:
-
-<img width="2770" height="1263" alt="image" src="https://github.com/user-attachments/assets/182042c7-1386-45b4-aaef-4c3e24d8ecb7" />
-
-
-Trajectory visualization in MATLAB:
-
-https://github.com/user-attachments/assets/fa56c2bf-5cce-4c99-b0bd-45eb01cca7c4
-
-________________________________________________________________________________________
 
 
 Description
@@ -34,6 +24,17 @@ This project demonstrates the transition from mechanical design to aerospace sim
 
 ________________________________________________________________________________________
 
+Graphical view of the Drone on MATLAB:
+
+<img width="2770" height="1263" alt="image" src="https://github.com/user-attachments/assets/182042c7-1386-45b4-aaef-4c3e24d8ecb7" />
+
+________________________________________________________________________________________
+
+Trajectory visualization in MATLAB:
+
+https://github.com/user-attachments/assets/fa56c2bf-5cce-4c99-b0bd-45eb01cca7c4
+
+________________________________________________________________________________________
 
 3D Drone with CoG visualization in MATLAB
 
