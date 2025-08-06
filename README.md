@@ -1,82 +1,108 @@
 DEERC D2OS S20 – Drone 3D Modeling & Simulation
 
-A 3D visualization of the DEERC D2OS S20 drone modeled in SolidWorks and visualized in MATLAB.
-<img width="1730" height="1063" alt="Screenshot 2025-08-03 225548" src="https://github.com/user-attachments/assets/32fd8184-a36d-453d-ba98-96a70c96fe32" />
 
-📌 Project Description
-This project showcases my first end-to-end aerospace engineering build, combining CAD modeling, MATLAB simulation, and aerospace fundamentals.
+📌 Project Overview
+This project represents my first end-to-end aerospace engineering build, bridging the gap between mechanical CAD design, MATLAB simulation, and aerospace fundamentals.
 
-The DEERC D2OS S20 drone was fully modeled in SolidWorks and visualized in MATLAB, including:
+The DEERC D2OS S20 drone was:
 
-3D model assembly
+Fully modeled and assembled in SolidWorks
+
+Analyzed for Center of Gravity (CoG)
+
+Visualized and simulated in MATLAB
+
+Key objectives:
+
+Demonstrate CAD-to-simulation workflow for aerospace applications
+
+Lay groundwork for dynamic flight simulation and control system testing
+
+Explore how mechanical design impacts flight performance
+
+🖼 Project Highlights
+1️⃣ 3D CAD Model Assembly
+Modeled and assembled entirely in SolidWorks, then exported for MATLAB visualization.
 <img width="1730" height="1063" alt="Screenshot 2025-08-03 225548" src="https://github.com/user-attachments/assets/dfbbcaee-9624-4342-94e7-f24378a6652a" />
 
-Center of Gravity (CoG) analysis
+2️⃣ Center of Gravity Analysis
+CoG calculated from mass properties and plotted directly in MATLAB to visualize stability and balance.
+<img width="2879" height="1698" alt="image" src="https://github.com/user-attachments/assets/73a82c3d-3fef-4803-bb8d-8a4e7676eb56" />
 
-Trajectory visualization in MATLAB
-https://github.com/user-attachments/assets/1ac5b5a4-3572-41a4-8099-8a4577ff3d77
+3️⃣ Trajectory Visualization
+Custom MATLAB scripts simulate basic flight paths, helping visualize motion in 3D space.
+Trajectory Visualization Demo
 
+4️⃣ Early Flight Dynamics Foundation
+Preparing for dynamic simulation and stability testing
 
+Future integration with Simulink for control design
 
-Early groundwork for dynamic simulation and flight analysis
+✨ Key Features
+✅ Full 3D drone CAD model
 
-This project allowed me to bridge the gap between mechanical design and MATLAB simulation, which will later support propulsion and flight performance testing.
+✅ CoG plotting inside MATLAB environment
 
-✨ Features
-Full 3D CAD model of the drone
+✅ Customizable trajectory simulation for flight paths
 
-Center of Gravity plotting directly inside the MATLAB visualization
+✅ Adjustable axis scaling for accurate 3D visualization
 
-Customizable trajectory simulation to test flight paths
+🛠 Setup & Installation
+Install Required Software:
 
-Adjustable axis scaling for accurate 3D representation
+MATLAB (R2023a or later recommended)
 
-🛠️ Setup & Installation
-Install MATLAB (R2023a or later recommended)
+SolidWorks (any version supporting .STL or .STEP export)
 
-Install SolidWorks (any version supporting .STL or .STEP export)
+Export Drone Parts from SolidWorks:
 
-Export the drone model parts from SolidWorks and import into MATLAB
+Export each part as .STL or .STEP
 
-Save the CoG data in an Excel file named Center of gravity.xlsx
+Save in the MATLAB project folder
 
-Open MATLAB in the project folder and run the plotting scripts
+Prepare CoG Data:
 
-▶️ Usage
-Load the CoG data in MATLAB:
+Export CoG/mass properties from SolidWorks to Excel
+
+Save as Center of gravity.xlsx
+
+Run in MATLAB:
 
 matlab
 Copy
 Edit
 CoMdata = readtable('Center of gravity.xlsx');
-Run the simulation script to:
+% Run the main visualization/trajectory script
+This will:
 
 Display the 3D drone model
 
-Plot the center of gravity (red dot)
+Plot the red dot for center of gravity
 
-Visualize trajectory paths
+Visualize basic trajectory paths
 
-Adjust axes to visualize the drone path accurately (e.g., change z-axis to 1’s instead of 5’s)
+▶ Example Output
+3D Drone with CoG: Immediate spatial awareness of stability
 
-Example Output:
+Trajectory Path Animation: Concept of motion through MATLAB
 
-3D drone visualization with center of gravity plotted.
+(GIF Example Placeholder for future flight sim demo)
 
-Trajectory Animation (GIF Example):
+🔧 Tech Stack
+SolidWorks – Mechanical modeling & assembly
 
+MATLAB – Data visualization, CoG plotting, trajectory simulation
 
-🔧 Developed With
+(Planned) Simulink – Control system & dynamic flight simulation
 
 🚀 Next Steps
-Integrate basic flight dynamics simulation
+ Integrate basic flight dynamics simulation
 
-Test MATLAB trajectory tracking
+ Implement trajectory tracking with MATLAB
 
-Export to Simulink for control system design
+ Export and animate propeller rotation & flight maneuvers
 
-Animate propeller rotation and flight maneuvers
+ Build Simulink-based control systems
 
 👨‍💻 Author
 Chinedum Echedom – Aerospace Engineering Student @ Iowa State University
-Focused on cost‑effective propulsion and sustainable aerospace systems
