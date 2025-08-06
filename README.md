@@ -19,6 +19,7 @@ Demonstrate CAD-to-simulation workflow for aerospace applications
 Explore how mechanical design impacts flight performance
 
 🖼 Project Highlights
+
 1️⃣ 3D CAD Model Assembly
 Modeled and assembled entirely in SolidWorks, then exported for MATLAB visualization.
 <img width="1730" height="1063" alt="Screenshot 2025-08-03 225548" src="https://github.com/user-attachments/assets/dfbbcaee-9624-4342-94e7-f24378a6652a" />
@@ -31,12 +32,9 @@ CoG calculated from mass properties and plotted directly in MATLAB to visualize 
 Custom MATLAB scripts simulate basic flight paths, helping visualize motion in 3D space.
 https://github.com/user-attachments/assets/fa56c2bf-5cce-4c99-b0bd-45eb01cca7c4
 
-o
 
-4️⃣ Early Flight Dynamics Foundation
-Preparing for dynamic simulation and stability testing
 
-Future integration with Simulink for control design
+4️⃣ Future integration with Simulink for control design
 
 ✨ Key Features
 ✅ Full 3D drone CAD model
@@ -47,32 +45,38 @@ Future integration with Simulink for control design
 
 ✅ Adjustable axis scaling for accurate 3D visualization
 
+
 🛠 Setup & Installation
-Install Required Software:
+-Install Required Software:
 
-MATLAB (R2023a or later recommended)
+-MATLAB (R2023a or later recommended)
 
-SolidWorks (any version supporting .STL or .STEP export)
+-SolidWorks (any version supporting .STL or .STEP export)
 
-Export Drone Parts from SolidWorks:
+-Export Drone Parts from SolidWorks:
 
-Export each part as .STL or .STEP
+-Export each part as .STL 
 
-Save in the MATLAB project folder
+-Save in the MATLAB project folder
 
-Prepare CoG Data:
+-Prepare CoG Data:
 
-Export CoG/mass properties from SolidWorks to Excel
+-Export CoG/mass properties from SolidWorks to Excel
 
-Save as Center of gravity.xlsx
+-Save as Center of gravity.xlsx
 
-Run in MATLAB:
+-Run in MATLAB:
 
 matlab
+
 Copy
+
 Edit
-CoMdata = readtable('Center of gravity.xlsx');
+CoMda
+ta = readtable('Center of gravity.xlsx');
+
 % Run the main visualization/trajectory script
+
 This will:
 
 Display the 3D drone model
@@ -82,13 +86,19 @@ Plot the red dot for center of gravity
 Visualize basic trajectory paths
 
 ▶ Example Output
+
 3D Drone with CoG: Immediate spatial awareness of stability
 
 Trajectory Path Animation: Concept of motion through MATLAB
 
-(GIF Example Placeholder for future flight sim demo)
+
+
+https://github.com/user-attachments/assets/befa09a1-7039-441e-abea-aca4021f8a1b
+
+
 
 🔧 Tech Stack
+
 SolidWorks – Mechanical modeling & assembly
 
 MATLAB – Data visualization, CoG plotting, trajectory simulation
@@ -105,4 +115,5 @@ MATLAB – Data visualization, CoG plotting, trajectory simulation
  Build Simulink-based control systems
 
 👨‍💻 Author
+
 Chinedum Echedom – Aerospace Engineering Student @ Iowa State University
