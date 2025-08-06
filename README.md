@@ -1,4 +1,4 @@
-DEERC D2OS S20 – Drone 3D Modeling & Simulation
+**DEERC D2OS S20 – Drone 3D Modeling & Simulation**
 
 ________________________________________________________________________________________
 
