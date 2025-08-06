@@ -1,6 +1,7 @@
 DEERC D2OS S20 – Drone 3D Modeling & Simulation
 
 A 3D visualization of the DEERC D2OS S20 drone modeled in SolidWorks and visualized in MATLAB.
+<img width="1730" height="1063" alt="Screenshot 2025-08-03 225548" src="https://github.com/user-attachments/assets/32fd8184-a36d-453d-ba98-96a70c96fe32" />
 
 📌 Project Description
 This project showcases my first end-to-end aerospace engineering build, combining CAD modeling, MATLAB simulation, and aerospace fundamentals.
@@ -8,10 +9,14 @@ This project showcases my first end-to-end aerospace engineering build, combinin
 The DEERC D2OS S20 drone was fully modeled in SolidWorks and visualized in MATLAB, including:
 
 3D model assembly
+<img width="1730" height="1063" alt="Screenshot 2025-08-03 225548" src="https://github.com/user-attachments/assets/dfbbcaee-9624-4342-94e7-f24378a6652a" />
 
 Center of Gravity (CoG) analysis
 
 Trajectory visualization in MATLAB
+https://github.com/user-attachments/assets/1ac5b5a4-3572-41a4-8099-8a4577ff3d77
+
+
 
 Early groundwork for dynamic simulation and flight analysis
 
