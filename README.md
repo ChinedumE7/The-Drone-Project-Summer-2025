@@ -1,6 +1,8 @@
 DEERC D2OS S20 – Drone 3D Modeling & Simulation
 
+________________________________________________________________________________________
 
+<img width="1730" height="1063" alt="Screenshot 2025-08-03 225548" src="https://github.com/user-attachments/assets/dfbbcaee-9624-4342-94e7-f24378a6652a" />
 Graphical view of the Drone on MATLAB:
 
 
@@ -9,40 +11,45 @@ Trajectory visualization in MATLAB:
 
 https://github.com/user-attachments/assets/fa56c2bf-5cce-4c99-b0bd-45eb01cca7c4
 
+________________________________________________________________________________________
+
+
 Description
 The DEERC D2OS S20 Project represents my first end-to-end aerospace engineering build, combining mechanical design, simulation, and aerospace principles.
 
 Through CAD modeling in SolidWorks and simulation in MATLAB, I created a complete workflow that:
 
-Models the 3D geometry of the quadcopter
+1. Models the 3D geometry of the quadcopter
 
-Calculates and visualizes its Center of Gravity (CoG)
+2. Calculates and visualizes its Center of Gravity (CoG)
 
-Simulates basic trajectory motion
+3. Simulates basic trajectory motion
 
 This project demonstrates the transition from mechanical design to aerospace simulation, a critical skill for early drone development.
+
+________________________________________________________________________________________
 
 
 3D Drone with CoG visualization in MATLAB
 
 Set up & Installation
-Install Required Software
+-Install Required Software
 
-MATLAB R2023a or later
+-MATLAB R2023a or later
 
-SolidWorks (any version supporting .STL or .STEP export)
+-SolidWorks (any version supporting .STL or .STEP export)
 
-Export Drone Parts from SolidWorks
+-Export Drone Parts from SolidWorks
 
-Export all drone components as .STL files
+-Export all drone components as .STL files
 
-Save them into your MATLAB project folder
+-Save them into your MATLAB project folder
 
-Prepare Center of Gravity Data
+-Prepare Center of Gravity Data
 
-Export mass properties from SolidWorks
+-Export mass properties from SolidWorks
 
-Save as Excel:
+-Save as Excel:
 
 scss
 Copy code
