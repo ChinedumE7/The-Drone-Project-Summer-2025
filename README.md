@@ -142,15 +142,18 @@ ________________________________________________________________________________
 
 
 Author
+
 Chinedum Echedom – Aerospace Engineering Student @ Iowa State University
 
 ________________________________________________________________________________________
 
 License
+
 This project is licensed under the “Commons Clause” License Condition v1.0. See LICENSE for more information.
 
 ________________________________________________________________________________________
 Recommendations
+
 . Explore how to create a more realistic 3D version like the 3D model rendering
 
 . Allow other persons to view and test the project
