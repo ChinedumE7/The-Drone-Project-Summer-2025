@@ -84,6 +84,7 @@ ________________________________________________________________________________
 
 
 Developed With
+
 <img width="237" height="212" alt="image" src="https://github.com/user-attachments/assets/ad6a7711-727d-4759-a946-cfe8d37c8b05" />
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/85ce6932-4a9b-4344-817d-049e7ae5da6d" />
 <img width="335" height="150" alt="image" src="https://github.com/user-attachments/assets/9744c34a-63fd-476c-8808-4a9aae7f8d3c" />
@@ -113,6 +114,7 @@ ________________________________________________________________________________
 
 
 Features
+
 ✅ Full 3D drone model in SolidWorks
 
 ✅ Center of Gravity visualization in MATLAB
@@ -135,6 +137,9 @@ Future Work
 -Export and animate propeller rotation and maneuvers
 
 Implement trajectory tracking with MATLAB & Simulink
+
+________________________________________________________________________________________
+
 
 Author
 Chinedum Echedom – Aerospace Engineering Student @ Iowa State University
