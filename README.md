@@ -2,7 +2,7 @@ DEERC D2OS S20 – Drone 3D Modeling & Simulation
 
 
 📌 Project Overview
-This project represents my first end-to-end aerospace engineering build, bridging the gap between mechanical CAD design, MATLAB simulation, and aerospace fundamentals.
+This project represents my first end-to-end aerospace engineering build, designing and simulating a quadcopter from scratch.
 
 The DEERC D2OS S20 drone was:
 
@@ -15,8 +15,6 @@ Visualized and simulated in MATLAB
 Key objectives:
 
 Demonstrate CAD-to-simulation workflow for aerospace applications
-
-Lay groundwork for dynamic flight simulation and control system testing
 
 Explore how mechanical design impacts flight performance
 
@@ -31,7 +29,9 @@ CoG calculated from mass properties and plotted directly in MATLAB to visualize 
 
 3️⃣ Trajectory Visualization
 Custom MATLAB scripts simulate basic flight paths, helping visualize motion in 3D space.
-Trajectory Visualization Demo
+https://github.com/user-attachments/assets/fa56c2bf-5cce-4c99-b0bd-45eb01cca7c4
+
+o
 
 4️⃣ Early Flight Dynamics Foundation
 Preparing for dynamic simulation and stability testing
