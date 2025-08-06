@@ -24,7 +24,7 @@ This project demonstrates the transition from mechanical design to aerospace sim
 
 ________________________________________________________________________________________
 
-Graphical view of the Drone on MATLAB:
+Plot of drone altitude against time in MATLAB :
 
 <img width="2770" height="1263" alt="image" src="https://github.com/user-attachments/assets/182042c7-1386-45b4-aaef-4c3e24d8ecb7" />
 
@@ -36,7 +36,16 @@ https://github.com/user-attachments/assets/fa56c2bf-5cce-4c99-b0bd-45eb01cca7c4
 
 ________________________________________________________________________________________
 
-3D Drone with CoG visualization in MATLAB
+SOLIDWORKS ASSEMBLY OF DRONE
+
+<img width="1730" height="1063" alt="Screenshot 2025-08-03 225548" src="https://github.com/user-attachments/assets/bbcf263d-e416-4634-9ace-810e6557bd3d" />
+
+________________________________________________________________________________________
+
+CoG visualization in MATLAB
+<img width="2879" height="1707" alt="image" src="https://github.com/user-attachments/assets/0cc0efc7-03a3-497e-a6ad-baa496648bec" />
+
+________________________________________________________________________________________
 
 Set up & Installation
 
