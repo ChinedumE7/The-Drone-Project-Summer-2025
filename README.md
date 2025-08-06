@@ -2,6 +2,7 @@ DEERC D2OS S20 – Drone 3D Modeling & Simulation
 
 
 📌 Project Overview
+
 This project represents my first end-to-end aerospace engineering build, designing and simulating a quadcopter from scratch.
 
 The DEERC D2OS S20 drone was:
@@ -37,6 +38,7 @@ https://github.com/user-attachments/assets/fa56c2bf-5cce-4c99-b0bd-45eb01cca7c4
 4️⃣ Future integration with Simulink for control design
 
 ✨ Key Features
+
 ✅ Full 3D drone CAD model
 
 ✅ CoG plotting inside MATLAB environment
@@ -72,7 +74,9 @@ matlab
 Copy
 
 Edit
+
 CoMda
+
 ta = readtable('Center of gravity.xlsx');
 
 % Run the main visualization/trajectory script
@@ -106,6 +110,7 @@ MATLAB – Data visualization, CoG plotting, trajectory simulation
 (Planned) Simulink – Control system & dynamic flight simulation
 
 🚀 Next Steps
+
  Integrate basic flight dynamics simulation
 
  Implement trajectory tracking with MATLAB
