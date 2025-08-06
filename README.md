@@ -33,6 +33,7 @@ ________________________________________________________________________________
 3D Drone with CoG visualization in MATLAB
 
 Set up & Installation
+
 -Install Required Software
 
 -MATLAB R2023a or later
@@ -51,15 +52,23 @@ Set up & Installation
 
 -Save as Excel:
 
-scss
-Copy code
-Center of gravity.xlsx
-Run MATLAB Script
+-Copy code
 
-matlab
-Copy code
-CoMdata = readtable('Center of gravity.xlsx');
-% Run the main visualization/trajectory script
+-Center of gravity.xlsx
+
+-Run MATLAB Script
+
+-matlab
+
+-Copy code
+
+-CoMdata = readtable('Center of gravity.xlsx');
+
+-Run the main visualization/trajectory script
+
+________________________________________________________________________________________
+
+
 This will:
 
 Display the 3D drone model
@@ -68,24 +77,37 @@ Plot the red dot for the CoG
 
 Visualize basic 3D trajectory paths
 
+________________________________________________________________________________________
+
+
 Developed With
+<img width="237" height="212" alt="image" src="https://github.com/user-attachments/assets/ad6a7711-727d-4759-a946-cfe8d37c8b05" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/85ce6932-4a9b-4344-817d-049e7ae5da6d" />
+<img width="335" height="150" alt="image" src="https://github.com/user-attachments/assets/9744c34a-63fd-476c-8808-4a9aae7f8d3c" />
+
+________________________________________________________________________________________
+
 
 Usage
-Launch MATLAB and open the main drone visualization script.
 
-Press Run to generate:
+1. Launch MATLAB and open the main drone visualization script.
 
-3D model visualization
+2. Press Run to generate:
 
-Red CoG marker
+3. 3D model visualization
 
-Trajectory animation
+4. Red CoG marker
 
-You can modify:
+5. Trajectory animation
 
-Axis scaling for better visualization
+6. You can modify:
 
-Drone trajectory parameters in the script
+7. Axis scaling for better visualization
+
+8. Drone trajectory parameters in the script
+
+________________________________________________________________________________________
+
 
 Features
 ✅ Full 3D drone model in SolidWorks
@@ -98,12 +120,16 @@ Features
 
 Both the 3D CAD model and MATLAB simulation work together to demonstrate how mechanical design directly affects flight stability.
 
+________________________________________________________________________________________
+
+
 Future Work
-Integrate Simulink for dynamic flight simulation and control
 
-Simulate rotor thrust and aerodynamic forces
+-Integrate Simulink for dynamic flight simulation and control
 
-Export and animate propeller rotation and maneuvers
+-Simulate rotor thrust and aerodynamic forces
+
+-Export and animate propeller rotation and maneuvers
 
 Implement trajectory tracking with MATLAB & Simulink
 
