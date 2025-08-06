@@ -4,6 +4,8 @@ ________________________________________________________________________________
 
 <img width="2878" height="2160" alt="The Drone Project- rendered (29)" src="https://github.com/user-attachments/assets/5a2ff1c0-4c74-457b-8c0b-818990c6a38d" />
 
+________________________________________________________________________________________
+
 Graphical view of the Drone on MATLAB:
 
 <img width="2770" height="1263" alt="image" src="https://github.com/user-attachments/assets/182042c7-1386-45b4-aaef-4c3e24d8ecb7" />
