@@ -15,6 +15,7 @@ ________________________________________________________________________________
 
 
 Description
+
 The DEERC D2OS S20 Project represents my first end-to-end aerospace engineering build, combining mechanical design, simulation, and aerospace principles.
 
 Through CAD modeling in SolidWorks and simulation in MATLAB, I created a complete workflow that:
