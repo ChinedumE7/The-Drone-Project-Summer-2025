@@ -2,7 +2,7 @@ DEERC D2OS S20 – Drone 3D Modeling & Simulation
 
 ________________________________________________________________________________________
 
-<img width="1730" height="1063" alt="Screenshot 2025-08-03 225548" src="https://github.com/user-attachments/assets/dfbbcaee-9624-4342-94e7-f24378a6652a" />
+<img width="1730" height="1<img width="2878" height="2160" alt="The Drone Project- rendered (29)" src="https://github.com/user-attachments/assets/5a2ff1c0-4c74-457b-8c0b-818990c6a38d" />
 Graphical view of the Drone on MATLAB:
 
 
