@@ -1,4 +1,4 @@
-% Define Parametrs
+% Define Parameters
 g = 9.81;
 Time = 12;
 dt = 0.01;
