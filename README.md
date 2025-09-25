@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 Propeller SolidWorks motion study
 
-Drone Project propellers motion study (2).mp4
+<video src="Drone%20Project%20propellers%20motion%20study%20%282%29.mp4" width="600" controls></video>
 
 ________________________________________________________________________________________
 
