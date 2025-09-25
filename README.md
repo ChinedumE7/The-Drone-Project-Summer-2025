@@ -14,13 +14,21 @@ The DEERC D2OS S20 Project represents my first end-to-end aerospace engineering 
 
 Through CAD modeling in SolidWorks and simulation in MATLAB, I created a complete workflow that:
 
-1. Models the 3D geometry of the quadcopter
+1. Models the 3D geometry of the quadcopter.
 
-2. Calculates and visualizes its Center of Gravity (CoG)
+2. Runs a propeller motion study in SolidWorks.
 
-3. Simulates basic trajectory motion
+3. Calculates and visualizes its Center of Gravity (CoG)
+
+4. Simulates basic trajectory motion
 
 This project demonstrates the transition from mechanical design to aerospace simulation, a critical skill for early drone development.
+
+________________________________________________________________________________________
+
+Propeller SolidWorks motion study
+
+<video src="Drone%20Project%20propellers%27%20motion%20study.mp4" width="600" controls></video>
 
 ________________________________________________________________________________________
 
