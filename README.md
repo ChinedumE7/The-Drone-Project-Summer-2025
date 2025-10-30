@@ -24,6 +24,9 @@ This project demonstrates the transition from mechanical design to aerospace sim
 
 
 ________________________________________________________________________________________
+Propeller motion study
+https://github.com/ChinedumE7/The-Drone-Project-Summer-2025/issues/1#issue-3568829346
+________________________________________________________________________________________
 
 Plot of drone altitude against time in MATLAB :
 
